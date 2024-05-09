@@ -1,0 +1,172 @@
+@media (max-width: 1399.98px) {
+  .carousel-section {
+    height: 700px;
+  }
+  .carousel-caption {
+    left: 200px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .menu li a {
+    text-decoration: none;
+    color: #ffff;
+    font-size: 70px;
+    line-height: 100px;
+    font-weight: 700;
+  }
+  .carousel-caption {
+    left: 150px;
+  }
+  .banner-title {
+    font-size: 80px;
+    line-height: 95px;
+    width: 700px;
+    letter-spacing: 5%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .header {
+    padding: 30px 30px 0px;
+  }
+
+  .menu.open {
+    top: 109px;
+    padding: 30px 0px;
+  }
+  .menu ul {
+    padding: 0 30px;
+  }
+  .carousel-caption {
+    left: 80px;
+  }
+  .banner-title {
+    font-size: 70px;
+    line-height: 80px;
+    width: 600px;
+    letter-spacing: 5%;
+  }
+  .logo {
+    width: 150px;
+  }
+  .menu li a {
+    font-size: 60px;
+    line-height: 76px;
+  }
+  .carousel-prev {
+    bottom: 88px;
+    right: 55%;
+  }
+  .carousel-next {
+    bottom: 88px;
+    right: 47%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .header {
+    padding: 30px 30px 0px;
+  }
+  .logo {
+    width: 140px;
+  }
+  .menu.open {
+    top: 105px;
+  }
+  .menu li a {
+    font-size: 46px;
+    line-height: 60px;
+  }
+  .carousel-caption {
+    left: 50px;
+  }
+  .banner-title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 3%;
+    width: 450px;
+  }
+  .carousel-prev {
+    right: 53%;
+  }
+  .carousel-next {
+    right: 45%;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .header {
+    padding: 30px 15px 0px;
+  }
+  .logo {
+    width: 100px;
+  }
+  .menu.open {
+    top: 83px;
+  }
+  .menu ul {
+    padding: 0 15px;
+  }
+  .menu li a {
+    font-size: 40px;
+    line-height: 46px;
+  }
+  .carousel-caption {
+    left: 30px;
+  }
+  .banner-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 2.4%;
+    width: 320px;
+  }
+  .carousel-prev {
+    right: 53%;
+  }
+  .carousel-next {
+    right: 42%;
+  }
+}
+
+@media (max-width: 374.98px) {
+  .header {
+    padding: 30px 15px 0px;
+  }
+  .menu.open {
+    top: 74px;
+  }
+  .logo {
+    width: 85px;
+  }
+  .menu li a {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .banner-title {
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    width: 200px;
+  }
+  .carousel-prev {
+    right: 50%;
+  }
+  .carousel-next {
+    right: 35%;
+  }
+}
+
+@media (max-width: 279.98px) {
+  .header {
+    padding: 30px 30px 0px;
+  }
+  .banner-title {
+    font-size: 28px;
+    line-height: 30px;
+    letter-spacing: 2%;
+    width: 150px;
+  }
+}
